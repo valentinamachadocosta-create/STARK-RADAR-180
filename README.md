@@ -140,3 +140,26 @@ STARK-RADAR-180/
 Projeto independente de robótica experimental.
 
 **STARK RADAR 180° — Tecnologia, programação e robótica na prática.**
+
+
+
+
+---
+
+## Documentação do projeto
+
+Confira os documentos técnicos:
+
+- [Documentação técnica](DOCUMENTACAO.md)
+- [Ligações elétricas](LIGACOES.md)
+- [Especificações técnicas](ESPECIFICACOES.md)
+
+## Código-fonte
+
+- [Código Arduino](Arduino/stark_radar.ino)
+- [Interface Processing](Processing/stark_radar.pde)
+
+## Licença
+
+Este projeto está disponibilizado sob a licença MIT. Consulte o arquivo [LICENSE](LICENSE).
+
